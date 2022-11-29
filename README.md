@@ -114,7 +114,7 @@ print("For Population = 70000, we predict a profit of $"+str(round(predict2,0)))
 
 ## Compute cost:
 ![o2](https://user-images.githubusercontent.com/94170892/200654814-c002e336-2c60-403a-bd55-cc2ec39390fe.jpg)
-
+## h(x):
 ![o3](https://user-images.githubusercontent.com/94170892/200654874-7565541e-1f8a-4c94-973b-c1a900282d29.jpg)
 
 
